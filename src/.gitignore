@@ -1,0 +1,6 @@
+node_modules
+.vs
+.env
+*.log
+yarn.lock
+.vscode/launch.json
